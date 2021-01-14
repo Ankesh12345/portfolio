@@ -1,0 +1,16 @@
+[0113/152146.669:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0113/155020.721:ERROR:settings.cc(325)] Settings version is not 1
+[0113/160658.009:ERROR:settings.cc(325)] Settings version is not 1
+[0113/163011.642:ERROR:settings.cc(325)] Settings version is not 1
+[0113/164344.758:ERROR:settings.cc(325)] Settings version is not 1
+[0113/171728.709:ERROR:settings.cc(325)] Settings version is not 1
+[0113/174157.018:ERROR:settings.cc(325)] Settings version is not 1
+[0113/192646.107:ERROR:settings.cc(325)] Settings version is not 1
+[0113/195331.072:ERROR:settings.cc(325)] Settings version is not 1
+[0113/202736.367:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0113/204108.944:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0114/170823.409:ERROR:settings.cc(325)] Settings version is not 1
+[0114/172746.101:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0114/185005.069:ERROR:settings.cc(325)] Settings version is not 1
+[0114/190005.082:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0114/192235.203:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
